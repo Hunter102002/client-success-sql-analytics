@@ -83,13 +83,15 @@ TICKET HISTORY - <img width="1509" height="1272" alt="Screenshot 2026-02-14 2138
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-INDEXES - <img width="1547" height="1178" alt="Screenshot 2026-02-14 213951" src="https://github.com/user-attachments/assets/307e73ee-41c0-4a09-b920-481faf6d4a92" />
+INDEXES - Shows how many open tickets each agent is currently handling.
+Useful for identifying capacity issues, rebalancing workload, and preventing burnout or SLA risk.
+<img width="1547" height="1178" alt="Screenshot 2026-02-14 213951" src="https://github.com/user-attachments/assets/307e73ee-41c0-4a09-b920-481faf6d4a92" />
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Now that we have our DB set up similar to what we would see with a CRM we can now simulate useful queries to simulate real-world helpful dashboards in relation to client management
 
-AGENT WORKLOAD - <img width="1943" height="1560" alt="Agent Workload" src="https://github.com/user-attachments/assets/c6bbbb7d-9905-497e-9806-ecf72ee8d892" />
+AGENT WORKLOAD -  <img width="1943" height="1560" alt="Agent Workload" src="https://github.com/user-attachments/assets/c6bbbb7d-9905-497e-9806-ecf72ee8d892" />
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
