@@ -55,7 +55,4 @@ Notes
 All data in this project is fictional and used for demonstration purposes only.
 Company names and individuals are placeholders and do not represent real customer data.
 
-
-## All Automations I actually created in my current role but cannot show/use the data of current employer
-
 ## Steps
