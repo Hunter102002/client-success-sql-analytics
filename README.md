@@ -9,10 +9,14 @@ The goal was to practice writing business-relevant SQL queries and build reporti
 
 ## Reports Included
 
-1.	Calendly → Welcome Prep Email
-2.	New Demo Request → Automated Email Sequence
-3.	New Client → Welcome Email & Onboarding Guide
-4.	Closed Handoff
+- Client Snapshot Dashboard (account health view for an assigned customer)
+- Open Backlog and Aging Tickets
+- Escalation Queue (High and Urgent tickets)
+- Issue Drivers by Category
+- Agent Workload and Response Time
+- SLA Performance (first response and resolution)
+- Customer Risk Signals (high-touch accounts and reopen patterns)
+- Ticket Status History Audit (timeline of updates and handoffs)
 
 ### Skills Learned
 
