@@ -83,33 +83,41 @@ TICKET HISTORY - <img width="1509" height="1272" alt="Screenshot 2026-02-14 2138
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-INDEXES - Shows how many open tickets each agent is currently handling.
-Useful for identifying capacity issues, rebalancing workload, and preventing burnout or SLA risk.
-<img width="1547" height="1178" alt="Screenshot 2026-02-14 213951" src="https://github.com/user-attachments/assets/307e73ee-41c0-4a09-b920-481faf6d4a92" />
+INDEXES -<img width="1547" height="1178" alt="Screenshot 2026-02-14 213951" src="https://github.com/user-attachments/assets/307e73ee-41c0-4a09-b920-481faf6d4a92" />
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Now that we have our DB set up similar to what we would see with a CRM we can now simulate useful queries to simulate real-world helpful dashboards in relation to client management
 
-AGENT WORKLOAD -  <img width="1943" height="1560" alt="Agent Workload" src="https://github.com/user-attachments/assets/c6bbbb7d-9905-497e-9806-ecf72ee8d892" />
+AGENT WORKLOAD - Shows how many open tickets each agent is currently handling.
+Useful for identifying capacity issues, rebalancing workload, and preventing burnout or SLA risk.
+<img width="1943" height="1560" alt="Agent Workload" src="https://github.com/user-attachments/assets/c6bbbb7d-9905-497e-9806-ecf72ee8d892" />
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-AGENT BACKLOG - <img width="2215" height="1438" alt="Aging Backlog" src="https://github.com/user-attachments/assets/2cb1bf58-380e-4199-a919-007bcf74a327" />
+AGENT BACKLOG - Highlights tickets that have been open beyond a defined threshold.
+Useful for surfacing neglected tickets and prioritizing follow-ups to protect customer experience.
+<img width="2215" height="1438" alt="Aging Backlog" src="https://github.com/user-attachments/assets/2cb1bf58-380e-4199-a919-007bcf74a327" />
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-ESCALATION QUEUE - <img width="2582" height="1334" alt="Escaltion Queue" src="https://github.com/user-attachments/assets/a69e9a40-ac9b-497e-8f5a-d7ec53533b2b" />
+ESCALATION QUEUE - Surfaces all High and Urgent priority open tickets.
+Useful for daily triage and ensuring critical issues are addressed quickly, especially for high-value accounts.
+<img width="2582" height="1334" alt="Escaltion Queue" src="https://github.com/user-attachments/assets/a69e9a40-ac9b-497e-8f5a-d7ec53533b2b" />
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 These are some useful dashboards in accordance with all ourstanding agents and tickets; however, there are some situations in which we may want to focus on a single client of ours, or one that I am in charge of as a CSM, and these are some useful dashboards we could use to simulate that 
 
-WAYNE ENTERPRISES CRM DASHBOARD - <img width="1925" height="1087" alt="My CLient CRM View" src="https://github.com/user-attachments/assets/274e418e-3454-4054-a5cd-4b91e653f830" />
+WAYNE ENTERPRISES CRM DASHBOARD - Provides a snapshot of total tickets, open backlog, high-priority issues, CSAT trends, and reopens.
+Useful for preparing for client calls, QBRs, and proactive outreach.
+<img width="1925" height="1087" alt="My CLient CRM View" src="https://github.com/user-attachments/assets/274e418e-3454-4054-a5cd-4b91e653f830" />
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-WAYNE ENTERPRISES OPEN TICKETS - <img width="2462" height="1507" alt="Wayne Open Tickets" src="https://github.com/user-attachments/assets/6a965c47-0775-40fb-8c54-6c91d8045904" />
+WAYNE ENTERPRISES OPEN TICKETS - Shows all open tickets for the account, sorted by priority and age.
+Useful as a daily working view for follow-ups and escalations.
+<img width="2462" height="1507" alt="Wayne Open Tickets" src="https://github.com/user-attachments/assets/6a965c47-0775-40fb-8c54-6c91d8045904" />
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
