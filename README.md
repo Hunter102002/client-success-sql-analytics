@@ -56,3 +56,8 @@ All data in this project is fictional and used for demonstration purposes only.
 Company names and individuals are placeholders and do not represent real customer data.
 
 ## Steps
+
+Create the database tables
+
+CUSTMERS - <img width="1473" height="1307" alt="Screenshot 2026-02-14 213716" src="https://github.com/user-attachments/assets/b2a885bf-aeba-4a4d-8833-8ef6a5ee936a" />
+
